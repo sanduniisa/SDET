@@ -12,7 +12,6 @@ public class Arithmetic {
 	{
 		int c = a-b;
 		System.out.println("The Subtracton is   : "+c);
-		System.out.println("changes done for the commit test");
 		return c;
 	}
 	
