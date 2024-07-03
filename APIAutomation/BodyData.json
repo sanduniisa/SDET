@@ -1,0 +1,19 @@
+{
+ "id": "3bd93",
+ "Address Details" :
+ [
+ {
+   "apartment" : "304" ,
+   "primary address" : "qqqqq"
+ },
+ {
+   "apartment" : "304" ,
+   "secondary address" : "wwwwwqqqqq"
+ }
+ ],
+ "FirstName": "Isuru",
+ "LastName": "Kashyapa",
+ "id ": "Isuru",
+ "Designation": "AircraftEngineer" 
+         
+}
