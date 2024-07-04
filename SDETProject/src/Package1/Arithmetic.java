@@ -13,8 +13,7 @@ public class Arithmetic {
 		int c = a-b;
 		System.out.println("The Subtracton is   : "+c);
 		return c;
-	}
-	
+	}	
 	public int Multi(int a, int b)
 	{
 		int c = a * b;

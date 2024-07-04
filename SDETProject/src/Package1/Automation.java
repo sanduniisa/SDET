@@ -18,5 +18,4 @@ public class Automation {
 	  obj.method1();
 	  obj2.method2();
 	}
-
 }

@@ -7,8 +7,7 @@ public class Student {
 	
 	public void Display1() {
 		System.out.println("Welcome to all of you!!!");
-	}
-	
+	}	
 	public void Display2() {
 		System.out.println("Automation is very easy");
 	}
