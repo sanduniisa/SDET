@@ -29,7 +29,7 @@ public class POSTMethodUsingOrgJSON {
 		
 		JSONObject outer= new JSONObject();
 		outer.put("FistName", "Upul");
-		outer.put("LastName", "Kithsiri");
+		outer.put("LastName", "Senarath");
 		outer.put("Designation", "Businessman");
 		outer.put("Address", array);
 		
