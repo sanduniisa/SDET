@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Suite]">
+  <test parallel="none" name="Test(failed)" preserve-order="true">
+    <classes>
+      <class name="org.testing.testScripts.TC4">
+        <methods>
+          <include name="closure"/>
+          <include name="init"/>
+        </methods>
+      </class>
+      <class name="org.testing.testScripts.TC6">
+        <methods>
+          <include name="closure"/>
+          <include name="testcase6"/>
+          <include name="init"/>
+        </methods>
+      </class>
+      <class name="org.testing.testScripts.TC1">
+        <methods>
+          <include name="closure"/>
+          <include name="init"/>
+        </methods>
+      </class>
+      <class name="org.testing.testScripts.TC3">
+        <methods>
+          <include name="closure"/>
+          <include name="init"/>
+        </methods>
+      </class>
+      <class name="org.testing.testScripts.TC8">
+        <methods>
+          <include name="closure"/>
+          <include name="init"/>
+        </methods>
+      </class>
+      <class name="org.testing.testScripts.TC5">
+        <methods>
+          <include name="closure"/>
+          <include name="testcase5"/>
+          <include name="init"/>
+        </methods>
+      </class>
+      <class name="org.testing.testScripts.TC2">
+        <methods>
+          <include name="closure"/>
+          <include name="init"/>
+        </methods>
+      </class>
+      <class name="org.testing.testScripts.TC7">
+        <methods>
+          <include name="closure"/>
+          <include name="init"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

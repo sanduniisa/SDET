@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-07T16:23:16Z" name="Suite" finished-at="2024-08-07T16:23:16Z" duration-ms="13">
+    <groups>
+    </groups>
+    <test started-at="2024-08-07T16:23:16Z" name="Test" finished-at="2024-08-07T16:23:16Z" duration-ms="13">
+      <class name="YTFramework.YTW.TC1">
+        <test-method signature="TC1_testcase()[pri:0, instance:YTFramework.YTW.TC1@33cb5951]" started-at="2024-08-07T16:23:16Z" name="TC1_testcase" finished-at="2024-08-07T16:23:16Z" duration-ms="6" status="PASS">
+        </test-method>
+      </class>
+      <class name="YTFramework.YTW.TC2">
+        <test-method signature="TC2_testcase()[pri:0, instance:YTFramework.YTW.TC2@11c20519]" started-at="2024-08-07T16:23:16Z" name="TC2_testcase" finished-at="2024-08-07T16:23:16Z" duration-ms="1" status="PASS">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

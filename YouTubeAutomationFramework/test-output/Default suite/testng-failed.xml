@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Default suite]">
+  <test parallel="none" name="Default test(failed)" preserve-order="true">
+    <classes>
+      <class name="org.testing.testScripts.TC1">
+        <methods>
+          <include name="closure"/>
+          <include name="testcase1"/>
+          <include name="init"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>
